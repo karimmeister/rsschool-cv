@@ -4,11 +4,11 @@
 ---
 ### Junior Frontend Developer
 ---
-###Contact information:
-__phone:__ +375(33)3450901
-__email:__ adama2002q@gmail.com
-__telegram:__ @kari6fcm
-#####[linkedin](https://www.linkedin.com/in/karim-adamchik-5aa454236/)
+### Contact information:
+* __phone:__+375(33)3450901
+* __email:__ adama2002q@gmail.com
+* __telegram:__ @karim6fcm
+* [linkedin](https://www.linkedin.com/in/karim-adamchik-5aa454236/)
 ---
 ### Briefly About Myself:
 * Finished the manual tester course, but always craving for development, now I am very motivated to learn the development on JavaScript
