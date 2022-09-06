@@ -5,7 +5,7 @@
 ### Junior Frontend Developer
 ---
 ### Contact information:
-* __phone:__+375(33)3450901
+* __phone:__+375 (33) 345-09-01
 * __email:__ adama2002q@gmail.com
 * __telegram:__ @karim6fcm
 * [linkedin](https://www.linkedin.com/in/karim-adamchik-5aa454236/)
